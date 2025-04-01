@@ -8,7 +8,9 @@ El objetivo principal es ser el jugador con más puntos al final del juego. Los 
 Componentes del Juego
 Un mazo de cartas que contiene cartas de cuatro colores (Rojo, Azul, Verde, Amarillo) y números del 1 al 9.
 Un número variable de jugadores (de 2 a 4).
+
 Reglas del Juego
+
 Inicio del Juego:
 
 Se determina el número de jugadores (entre 2 y 4) y se recogen los nombres de cada jugador.

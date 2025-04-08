@@ -1,4 +1,4 @@
-Juego de Cartas
+# Juego de Cartas
 
 ¿De qué trata?
 El "Juego de Cartas" es un juego de mesa interactivo diseñado para ser jugado por 2 a 4 jugadores. Cada jugador compite para ganar rondas utilizando cartas que tienen diferentes colores y números. El objetivo del juego es acumular la mayor cantidad de puntos posible al ganar rondas, lo que se logra jugando cartas de mayor valor en comparación con las cartas jugadas por los oponentes.
